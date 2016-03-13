@@ -1280,3 +1280,203 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-15 00:51:22 -0500
+
+
+Started GET "/" for 54.244.95.60 at 2016-03-13 19:57:33 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 479ms (Views: 462.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 54.244.95.60 at 2016-03-13 19:57:34 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 54.244.95.60 at 2016-03-13 19:57:34 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 54.244.95.60 at 2016-03-13 19:57:34 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 54.244.95.60 at 2016-03-13 19:57:34 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 54.244.95.60 at 2016-03-13 19:57:34 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 54.244.95.60 at 2016-03-13 20:11:21 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 207ms (Views: 199.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 54.244.95.60 at 2016-03-13 20:11:21 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 54.244.95.60 at 2016-03-13 20:11:22 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 54.244.95.60 at 2016-03-13 20:11:22 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 54.244.95.60 at 2016-03-13 20:11:22 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 54.244.95.60 at 2016-03-13 20:11:22 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/search" for 54.244.95.60 at 2016-03-13 20:11:40 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CNfqJ6wkf9K3tY1E98rQ66MxxsyAjm4MDP6d0Or6CHBK3ZdTsppuWlencDHx0FTtnvsw8YxU45pJPYIHjHIvlQ==", "zipcode"=>"78756", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 280ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 54.244.95.60 at 2016-03-13 20:13:11 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+
+NameError (undefined local variable or method `redirect_uri' for #<SearchesController:0x007f05b44ac5e8>):
+  app/controllers/application_controller.rb:12:in `authenticate_user'
+
+
+  Rendered .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (27.0ms)
+
+
+Started GET "/search" for 54.244.95.60 at 2016-03-13 20:14:53 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=F2Y3XIIVAXX0XABTCCIBRW2OJBFLBOKX2XL5GM34WCEKADB0&response_type=code&redirect_uri=http%3A%2F%2Fyangc5-v-000-150060.nitrousapp.com%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=RK4JTF0UBRT4YXWIWGQJ2SF1CGXN10PVQ2CBDWSR0RR0XN25" for 54.244.95.60 at 2016-03-13 20:15:01 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'create' could not be found for SessionsController):
+  .bundle/gems/actionpack-4.2.5/lib/abstract_controller/base.rb:132:in `process'
+  .bundle/gems/actionview-4.2.5/lib/action_view/rendering.rb:30:in `process'
+  .bundle/gems/actionpack-4.2.5/lib/action_controller/metal.rb:196:in `dispatch'
+  .bundle/gems/actionpack-4.2.5/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  .bundle/gems/actionpack-4.2.5/lib/action_controller/metal.rb:237:in `block in action'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/routing/route_set.rb:76:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/journey/router.rb:30:in `each'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/journey/router.rb:30:in `serve'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/routing/route_set.rb:817:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/etag.rb:24:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/conditionalget.rb:25:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/head.rb:13:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/flash.rb:260:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/session/abstract/id.rb:225:in `context'
+  .bundle/gems/rack-1.6.4/lib/rack/session/abstract/id.rb:220:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  .bundle/gems/activerecord-4.2.5/lib/active_record/query_cache.rb:36:in `call'
+  .bundle/gems/activerecord-4.2.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  .bundle/gems/activerecord-4.2.5/lib/active_record/migration.rb:377:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  .bundle/gems/web-console-2.3.0/lib/web_console/middleware.rb:20:in `block in call'
+  .bundle/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `catch'
+  .bundle/gems/web-console-2.3.0/lib/web_console/middleware.rb:18:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  .bundle/gems/railties-4.2.5/lib/rails/rack/logger.rb:38:in `call_app'
+  .bundle/gems/railties-4.2.5/lib/rails/rack/logger.rb:20:in `block in call'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/tagged_logging.rb:26:in `tagged'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/tagged_logging.rb:68:in `tagged'
+  .bundle/gems/railties-4.2.5/lib/rails/rack/logger.rb:20:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/methodoverride.rb:22:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/runtime.rb:18:in `call'
+  .bundle/gems/activesupport-4.2.5/lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/lock.rb:17:in `call'
+  .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/static.rb:116:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/sendfile.rb:113:in `call'
+  .bundle/gems/railties-4.2.5/lib/rails/engine.rb:518:in `call'
+  .bundle/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/lock.rb:17:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/content_length.rb:15:in `call'
+  .bundle/gems/rack-1.6.4/lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/opt/rbenv/versions/2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/opt/rbenv/versions/2.1.5/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/opt/rbenv/versions/2.1.5/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered .bundle/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.4ms)
+
+
+Started GET "/auth?code=RK4JTF0UBRT4YXWIWGQJ2SF1CGXN10PVQ2CBDWSR0RR0XN25" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"RK4JTF0UBRT4YXWIWGQJ2SF1CGXN10PVQ2CBDWSR0RR0XN25"}
+Redirected to http://yangc5-v-000-150060.nitrousapp.com:3000/
+Completed 302 Found in 160ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 54.244.95.60 at 2016-03-13 20:20:45 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/search" for 54.244.95.60 at 2016-03-13 20:20:50 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GGBYA5AnIDAFFMI5el4IbIajvrG1pgxo0p9ATl64KBRaaiV3jpkxuOUGP0x8RIxqu2lIjLl8gf6XXF+ZODAP8Q==", "zipcode"=>"78756", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 262ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 54.244.95.60 at 2016-03-13 20:20:55 +0000
+Cannot render console from 54.244.95.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#friends as HTML
+  Rendered searches/friends.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 147ms (Views: 9.9ms | ActiveRecord: 0.0ms)
